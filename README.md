@@ -33,4 +33,4 @@ About each file:
 2. shushah_relabund_helpers_forPublishing.R                        ->  Helper functions to ensure relative abundances are computed consistently across scripts
 
 
-Note: All codes have been generated through the help of AI (Claude). 
+Note: All codes have been generated with the help of AI (Claude). 
