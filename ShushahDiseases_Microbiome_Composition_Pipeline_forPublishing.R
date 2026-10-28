@@ -1800,7 +1800,7 @@ run_relabundance_exports <- function(ps_source, cfg, use_rarefied) {
       "DL = Diseased/Lesion); March + July pooled"
     ),
     extra_lines  = c(
-      "Source script: ShushahTotal_Microbiome_Composition_PipelineTest3.R (SECTION 7c)",
+      "Source script: ShushahTotal_Microbiome_Composition_Pipeline_forPublishing.R (SECTION 7c)",
       "This is the project's source for relative-abundance values."
     )
   )
