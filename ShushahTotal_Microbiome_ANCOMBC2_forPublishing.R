@@ -1,4 +1,4 @@
-#### ANCOM-BC2 Differential Abundance - Figure Pipeline ####
+#### ANCOM-BC2 Differential Abundance Pipeline ####
 #### Libraries ####
 
 library(tidyverse)   # data wrangling / ggplot2
