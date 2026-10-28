@@ -30,6 +30,7 @@ About each file:
 
 * Helpers
 1. Color codes families SVG.xlsx                                   ->  Color palette for the most relevant bacterial families, to keep color consistent across figures
+2. shushah_relabund_helpers_forPublishing.R                        ->  Helper functions to ensure relative abundances are computed consistently across scripts
 
 
 Note: All codes have been generated through the help of AI (Claude). 
