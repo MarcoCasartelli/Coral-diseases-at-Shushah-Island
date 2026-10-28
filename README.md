@@ -15,6 +15,12 @@ marco.casartelli@kaust.edu.sa
 raquel.peixoto@kust.edu.sa
 
 About each file:
+* Datasets
+1. ShushahMicrobiome_Total_ASVs_counts-no-contam.tsv               ->  Per-sample (columns) ASV counts
+2. ShushahMicrobiome_Total_ASVs_taxonomy-no-contam.tsv             ->  ASV taxonomy
+3. ShushahMicrobiome_Total_ASVs-no-contam_tree.nwk                 ->  phylogenetic tree
+4. ShushahMicrobiome_Total_Metadata.csv                            ->  metadata
+
 1. ShushahDisease_Microbiome_Composition_Pipeline_forPublishing.R  ->  The pipeline for alpha and beta diversity analysis (including stats) and the visualization of the dataset taxonomic composition
 2. 
 
