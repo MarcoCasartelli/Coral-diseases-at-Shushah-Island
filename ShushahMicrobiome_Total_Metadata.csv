@@ -1,0 +1,66 @@
+﻿READ_ID,DNA_ID,SAMPLE_ID,COLONY,MONTH,SITE_NAME,GENUS,SPECIES,COLONY_STATUS,FRAGMENT_STATUS
+M0051,PD1D,Poci_D1_D,Poci_D1,March,Haddah_Beach,Pocillopora,favosa,Diseased,Lesion
+M0052,PD1H,Poci_D1_H,Poci_D1,March,Haddah_Beach,Pocillopora,favosa,Diseased,NoLesion
+M0062,PD2D,Poci_D2_D,Poci_D2,March,Haddah_Beach,Pocillopora,favosa,Diseased,Lesion
+M0063,PD2H,Poci_D2_H,Poci_D2,March,Haddah_Beach,Pocillopora,favosa,Diseased,NoLesion
+M0064,PD3D,Poci_D3_D,Poci_D3,March,Haddah_Beach,Pocillopora,favosa,Diseased,Lesion
+M0065,PD3H,Poci_D3_H,Poci_D3,March,Haddah_Beach,Pocillopora,favosa,Diseased,NoLesion
+M0053,PH1,Poci_H1,Poci_H1,March,Haddah_Beach,Pocillopora,favosa,Healthy,NoLesion
+M0054,PH2,Poci_H2,Poci_H2,March,Haddah_Beach,Pocillopora,favosa,Healthy,NoLesion
+M0055,PH3,Poci_H3,Poci_H3,March,Haddah_Beach,Pocillopora,favosa,Healthy,NoLesion
+M0066,PD4D,Poci_D4_D,Poci_D4,March,Pinnacle_B,Pocillopora,favosa,Diseased,Lesion
+M0067,PD4H,Poci_D4_H,Poci_D4,March,Pinnacle_B,Pocillopora,favosa,Diseased,NoLesion
+M0068,AD1D,Acro_D1_D,Acro_D1,March,Pinnacle_B,Acropora,A. cf. digitifera,Diseased,Lesion
+M0056,AD1H,Acro_D1_H,Acro_D1,March,Pinnacle_B,Acropora,A. cf. digitifera,Diseased,NoLesion
+M0069,AD2D,Acro_D2_D,Acro_D2,March,Pinnacle_B,Acropora,A. cf. cytherea,Diseased,Lesion
+M0057,AD2H,Acro_D2_H,Acro_D2,March,Pinnacle_B,Acropora,A. cf. cytherea,Diseased,NoLesion
+M0070,AD3D,Acro_D3_D,Acro_D3,March,Pinnacle_B,Acropora,A. cf. digitifera,Diseased,Lesion
+M0058,AD3H,Acro_D3_H,Acro_D3,March,Pinnacle_B,Acropora,A. cf. digitifera,Diseased,NoLesion
+M0071,AD4D,Acro_D4_D,Acro_D4,March,Pinnacle_B,Acropora,A. cf. hyacinthus,Diseased,Lesion
+M0059,AD4H,Acro_D4_H,Acro_D4,March,Pinnacle_B,Acropora,A. cf. hyacinthus,Diseased,NoLesion
+M0072,AD5D,Acro_D5_D,Acro_D5,March,NW_Shushah,Acropora,A. eurystoma,Diseased,Lesion
+M0073,AD5H,Acro_D5_H,Acro_D5,March,NW_Shushah,Acropora,A. eurystoma,Diseased,NoLesion
+M0074,AD6D,Acro_D6_D,Acro_D6,March,NW_Shushah,Acropora,Acropora sp.1,Diseased,Lesion
+M0075,AD6H,Acro_D6_H,Acro_D6,March,NW_Shushah,Acropora,Acropora sp.1,Diseased,NoLesion
+M0076,AD7D,Acro_D7_D,Acro_D7,March,NW_Shushah,Acropora,Acropora sp.1,Diseased,Lesion
+M0077,AD7H,Acro_D7_H,Acro_D7,March,NW_Shushah,Acropora,Acropora sp.1,Diseased,NoLesion
+M0078,AD8D,Acro_D8_D,Acro_D8,March,NW_Shushah,Acropora,Acropora sp.1,Diseased,Lesion
+M0079,AD8H,Acro_D8_H,Acro_D8,March,NW_Shushah,Acropora,Acropora sp.1,Diseased,NoLesion
+M0080,AH1,Acro_H1,Acro_H1,March,NW_Shushah,Acropora,A. cf. digitifera,Healthy,NoLesion
+M0081,AH2,Acro_H2,Acro_H2,March,NW_Shushah,Acropora,Acropora sp.1,Healthy,NoLesion
+M0060,AH3,Acro_H3,Acro_H3,March,NW_Shushah,Acropora,Acropora sp.1,Healthy,NoLesion
+M0084,AD9D,Acro_D9_D,Acro_D9,March,Crest_A,Acropora,A. maryae,Diseased,Lesion
+M0085,AD9H,Acro_D9_H,Acro_D9,March,Crest_A,Acropora,A. maryae,Diseased,NoLesion
+M0086,AD10D,Acro_D10_D,Acro_D10,March,Crest_A,Acropora,A. cf. hyacinthus,Diseased,Lesion
+M0087,AD10H,Acro_D10_H,Acro_D10,March,Crest_A,Acropora,A. cf. hyacinthus,Diseased,NoLesion
+M0088,AD11D,Acro_D11_D,Acro_D11,March,Crest_A,Acropora,Acropora sp.1,Diseased,Lesion
+M0089,AD11H,Acro_D11_H,Acro_D11,March,Crest_A,Acropora,Acropora sp.1,Diseased,NoLesion
+M0082,AH4,Acro_H4,Acro_H5,March,Crest_A,Acropora,A. eurystoma,Healthy,NoLesion
+M0090,PD5D,Poci_D5_D,Poci_D5,March,Crest_A,Pocillopora,favosa,Diseased,Lesion
+M0091,PD5H,Poci_D5_H,Poci_D5,March,Crest_A,Pocillopora,favosa,Diseased,NoLesion
+M0001,HA_101,H_A_hy_1,H_A_1,July,Coral_Nursery,Acropora,A. cf. hyacinthus,Healthy,NoLesion
+M0002,HA_102,H_A_hy_2,H_A_2,July,Coral_Nursery,Acropora,A. cf. hyacinthus,Healthy,NoLesion
+M0003,HA_103,H_A_hy_3,H_A_3,July,Coral_Nursery,Acropora,A. cf. hyacinthus,Healthy,NoLesion
+M0004,HA_104,H_A_hy_4,H_A_4,July,Coral_Nursery,Acropora,A. cf. hyacinthus,Healthy,NoLesion
+M0005,HA_105,H_A_hy_5,H_A_5,July,Coral_Nursery,Acropora,A. cf. hyacinthus,Healthy,NoLesion
+M0006,HP_101,H_P_ve_1,H_P_1,July,Coral_Nursery,Pocillopora,favosa,Healthy,NoLesion
+M0007,HP_102,H_P_ve_2,H_P_2,July,Coral_Nursery,Pocillopora,favosa,Healthy,NoLesion
+M0008,HP_103,H_P_ve_3,H_P_3,July,Coral_Nursery,Pocillopora,favosa,Healthy,NoLesion
+M0009,HP_104,H_P_ve_4,H_P_4,July,Coral_Nursery,Pocillopora,favosa,Healthy,NoLesion
+M0010,HP_105,H_P_ve_5,H_P_5,July,Coral_Nursery,Pocillopora,favosa,Healthy,NoLesion
+M0011,HP_106,H_P_1,D_P_1,July,Coral_Nursery,Pocillopora,favosa,Diseased,NoLesion
+M0012,HP_107,H_P_2,D_P_2,July,Coral_Nursery,Pocillopora,favosa,Diseased,NoLesion
+M0013,HP_108,H_P_3,D_P_3,July,Coral_Nursery,Pocillopora,favosa,Diseased,NoLesion
+M0015,DP_106,D_P_1,D_P_1,July,Coral_Nursery,Pocillopora,favosa,Diseased,Lesion
+M0016,DP_107,D_P_2,D_P_2,July,Coral_Nursery,Pocillopora,favosa,Diseased,Lesion
+M0017,DP_108,D_P_3,D_P_3,July,Coral_Nursery,Pocillopora,favosa,Diseased,Lesion
+M0018,HA_106,H_A_1,D_A_1,July,Coral_Nursery,Acropora,A. cf. hyacinthus,Diseased,NoLesion
+M0019,HA_107,H_A_2,D_A_2,July,Coral_Nursery,Acropora,A. cf. hyacinthus,Diseased,NoLesion
+M0020,HA_108,H_A_3,D_A_3,July,Coral_Nursery,Acropora,A. cf. hyacinthus,Diseased,NoLesion
+M0021,HA_109,H_A_4,D_A_4,July,Coral_Nursery,Acropora,A. cf. hyacinthus,Diseased,NoLesion
+M0022,HA_110,H_A_5,D_A_5,July,Coral_Nursery,Acropora,A. cf. hyacinthus,Diseased,NoLesion
+M0023,DA_106,D_A_1,D_A_1,July,Coral_Nursery,Acropora,A. cf. hyacinthus,Diseased,Lesion
+M0024,DA_107,D_A_2,D_A_2,July,Coral_Nursery,Acropora,A. cf. hyacinthus,Diseased,Lesion
+M0025,DA_108,D_A_3,D_A_3,July,Coral_Nursery,Acropora,A. cf. hyacinthus,Diseased,Lesion
+M0026,DA_109,D_A_4,D_A_4,July,Coral_Nursery,Acropora,A. cf. hyacinthus,Diseased,Lesion
+M0027,DA_110,D_A_5,D_A_5,July,Coral_Nursery,Acropora,A. cf. hyacinthus,Diseased,Lesion
