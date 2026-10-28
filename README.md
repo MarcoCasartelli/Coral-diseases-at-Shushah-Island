@@ -26,4 +26,8 @@ About each file:
 1. ShushahDisease_Microbiome_Composition_Pipeline_forPublishing.R  ->  The pipeline for alpha and beta diversity analysis (including stats) and the visualization of the dataset taxonomic composition
 2. 
 
+* Helpers
+1. Color codes families SVG.xlsx                                   -> Color palette for the most relevant bacterial families, to keep color consistent across figures
+
+
 Note: All codes have been generated through the help of AI (Claude). 
