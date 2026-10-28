@@ -26,6 +26,7 @@ About each file:
 * Codes
 1. ShushahDisease_Microbiome_Composition_Pipeline_forPublishing.R  ->  The pipeline for alpha and beta diversity analysis (including stats) and the visualization of the dataset taxonomic composition
 2. ShushahDisease_Microbiome_PresenceAbsence_forPublishing.R       ->  The code that identifies bacterial taxa unique to each tissue health status group
+3. ShushahTotal_Microbiome_ANCOMBC2_forPublishing.R                ->  The code for running ANCOM-BC2 and generate the corresponding figure
 
 * Helpers
 1. Color codes families SVG.xlsx                                   ->  Color palette for the most relevant bacterial families, to keep color consistent across figures
