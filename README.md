@@ -1,4 +1,4 @@
-This is the repoitory of the codes used for the analysis contained in the manuscript titled:
+This is the repoitory of the datasets and codes used for the analysis contained in the manuscript titled:
 
 "Different microbial signatures and disease prevalence in two common corals affected by white syndromes in the Northern Saudi Arabian Red Sea"
 
