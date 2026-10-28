@@ -14,23 +14,33 @@ Authors: Marco Casartelli (1*), Matteo Monti (1), Greta S. Aeby (2), Olivia Fee 
 marco.casartelli@kaust.edu.sa
 raquel.peixoto@kust.edu.sa
 
-About each file:
+About the "Microbiome" file:
 
 * Datasets
-1. ShushahMicrobiome_Total_ASVs_counts-no-contam.tsv               ->  Per-sample (columns) ASV counts
-2. ShushahMicrobiome_Total_ASVs_taxonomy-no-contam.tsv             ->  ASV taxonomy
-3. ShushahMicrobiome_Total_ASVs-no-contam_tree.nwk                 ->  phylogenetic tree
-4. ShushahMicrobiome_Total_Metadata.csv                            ->  metadata
-5. ShushahMicrobiome_Total_ASVs-no-contam.fa                       ->  FASTA alignment file
+  1. ShushahMicrobiome_Total_ASVs_counts-no-contam.tsv               ->  Per-sample (columns) ASV counts
+  2. ShushahMicrobiome_Total_ASVs_taxonomy-no-contam.tsv             ->  ASV taxonomy
+  3. ShushahMicrobiome_Total_ASVs-no-contam_tree.nwk                 ->  phylogenetic tree
+  4. ShushahMicrobiome_Total_Metadata.csv                            ->  metadata
+  5. ShushahMicrobiome_Total_ASVs-no-contam.fa                       ->  FASTA alignment file
 
 * Codes
-1. ShushahDisease_Microbiome_Composition_Pipeline_forPublishing.R  ->  The pipeline for alpha and beta diversity analysis (including stats) and the visualization of the dataset taxonomic composition
-2. ShushahDisease_Microbiome_PresenceAbsence_forPublishing.R       ->  The code that identifies bacterial taxa unique to each tissue health status group
-3. ShushahTotal_Microbiome_ANCOMBC2_forPublishing.R                ->  The code for running ANCOM-BC2 and generate the corresponding figure
+  1. ShushahDisease_Microbiome_Composition_Pipeline_forPublishing.R  ->  The pipeline for alpha and beta diversity analysis (including stats) and the visualization of the dataset taxonomic composition
+  2. ShushahDisease_Microbiome_PresenceAbsence_forPublishing.R       ->  The code that identifies bacterial taxa unique to each tissue health status group
+  3. ShushahTotal_Microbiome_ANCOMBC2_forPublishing.R                ->  The code for running ANCOM-BC2 and generate the corresponding figure
 
 * Helpers
-1. Color codes families SVG.xlsx                                   ->  Color palette for the most relevant bacterial families, to keep color consistent across figures
-2. shushah_relabund_helpers_forPublishing.R                        ->  Helper functions to ensure relative abundances are computed consistently across scripts
+  1. Color codes families SVG.xlsx                                   ->  Color palette for the most relevant bacterial families, to keep color consistent across figures
+  2. shushah_relabund_helpers_forPublishing.R                        ->  Helper functions to ensure relative abundances are computed consistently across scripts
+
+About the "Disease surveys" files
+
+* Datasets
+  1. CoralDiseases_Combined.csv                                      ->  Coral disease count per surveyed site
+  2. CoralCover_Combined.csv                                         ->  Coral colony count per transect
+  3. PIT_Combined.csv                                                ->  Poin-intercept data per transect
+
+* Codes
+  1. All_Surveys_Combined.R                                          ->  Code for disease survey data curation and visualization
 
 
 Note: All codes have been generated with the help of AI (Claude). 
