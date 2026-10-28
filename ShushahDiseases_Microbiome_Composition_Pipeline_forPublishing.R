@@ -28,7 +28,7 @@ invisible(lapply(required_packages, function(pkg) {
 }
 
 # Shared relative-abundance helpers to compute relative abundances consistently across codes
-source("/Users/casartm/Desktop/KAUST PhD/Projects/Coral Disease - Shushah/Microbiome Analysis/ShushahDisease_RelAb_Helpers/shushah_relabund_helpers.R")
+source("./shushah_relabund_helpers.R") #Edit with correct path
 
 # ==============================================================================
 # SECTION 1 — PATHS & PROJECT
@@ -38,9 +38,9 @@ PROJECT_NAME <- "ShushahTotal_Disease"
 
 # Folder containing ASV taxonomy, ASV count, metadata, and (optionally) tree files. 
 # Change to "." if those files are in the project root.
-DATA_DIR <- "/Users/casartm/Desktop/KAUST PhD/Projects/Coral Disease - Shushah/Microbiome Analysis/ShushahDisease_MicrobiomeComposition"
+DATA_DIR <- "./ShushahDisease_MicrobiomeComposition" #Edit with correct path
 
-OUTPUT_DIR <- "/Users/casartm/Desktop/KAUST PhD/Projects/Coral Disease - Shushah/Microbiome Analysis/ShushahDisease_MicrobiomeComposition"
+OUTPUT_DIR <- "./ShushahDisease_MicrobiomeComposition" #Edit with correct path
 
 # File names inside DATA_DIR
 FILE_TAXONOMY <- "ShushahMicrobiome_Total_ASVs_taxonomy-no-contam.tsv"
