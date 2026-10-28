@@ -346,7 +346,7 @@ shushah_write_relab_methods(
   group_desc   = paste("coral genus x health-status (AH = Healthy/NoLesion,",
                        "DU = Diseased/NoLesion, DL = Diseased/Lesion); March + July pooled"),
   extra_lines  = c(
-    "Source script: ShushahDisease_Microbiome_PresenceAbsence_#4.R",
+    "Source script: ShushahDisease_Microbiome_PresenceAbsence_forPublishing.R",
     "These tables are relative-abundance summaries only - NOT the group-exclusive",
     "taxa analysis. Presence/absence detection and exclusivity always use the",
     "rarefied object regardless of RELAB_USE_RAREFY.",
